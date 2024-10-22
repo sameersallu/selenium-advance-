@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
-//it is a base class
+//BaseClass example 
 public class BaseClass {
 WebDriver driver;
 	@BeforeSuite
